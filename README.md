@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adriannicsan
 - 👀 I’m interested in Linux, WordPress, Woocommerce
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Django
+- 💞️ I’m looking to collaborate on Networking and Web Development
 - 📫 How to reach me ...
 
 <!---
